@@ -1,0 +1,6 @@
+rule yes
+{
+    condition:
+       true
+}
+
